@@ -1,6 +1,6 @@
-(footprint "Kailh_socket_PG1350S_my" (version 20221018) (generator pcbnew)
+(footprint "Kailh_socket_PG1316S_my" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
+  (descr "Kailh \"Choc\" PG1316 keyswitch socket mount")
   (tags "kailh,choc")
   (attr smd)
   (fp_text reference "REF**" (at 0 0) (layer "B.SilkS") hide
